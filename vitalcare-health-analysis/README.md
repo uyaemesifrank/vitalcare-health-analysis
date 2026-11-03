@@ -108,4 +108,4 @@ vitalcare-health-analysis/
 
 ## Author
 
-Tricky, Data Analyst, Accra, Ghana
+Uyaemesi Frank Ogechukwu, Data Analyst, Accra, Ghana
